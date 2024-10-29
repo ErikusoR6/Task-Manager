@@ -1,1 +1,1 @@
-console.log("Programa Notificaciones")
+alert('Programa'); alert('Notificaciones');
